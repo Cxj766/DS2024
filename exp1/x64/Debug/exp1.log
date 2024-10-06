@@ -1,0 +1,9 @@
+﻿  complex.cpp
+C:\Users\MSI-NB\source\repos\exp1\complex.cpp(76,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\MSI-NB\source\repos\exp1\complex.cpp(77,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\MSI-NB\source\repos\exp1\complex.cpp(86,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\MSI-NB\source\repos\exp1\complex.cpp(102,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\MSI-NB\source\repos\exp1\complex.cpp(113,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\MSI-NB\source\repos\exp1\complex.cpp(127,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\MSI-NB\source\repos\exp1\complex.cpp(267,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  exp1.vcxproj -> C:\Users\MSI-NB\source\repos\exp1\x64\Debug\exp1.exe
