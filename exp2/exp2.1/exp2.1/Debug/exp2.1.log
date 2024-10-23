@@ -1,0 +1,5 @@
+﻿  exp2.1.cpp
+F:\数据结构\exp2\exp2.1\exp2.1\exp2.1.cpp(79,23): warning C4018: “<”: 有符号/无符号不匹配
+F:\数据结构\exp2\exp2.1\exp2.1\exp2.1.cpp(84,22): warning C4018: “<”: 有符号/无符号不匹配
+F:\数据结构\exp2\exp2.1\exp2.1\exp2.1.cpp(88,30): warning C4018: “<”: 有符号/无符号不匹配
+  exp2.1.vcxproj -> F:\数据结构\exp2\exp2.1\Debug\exp2.1.exe
